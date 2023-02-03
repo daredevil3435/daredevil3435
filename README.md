@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daredevil3435
-- 👀 I’m interested in coding and development
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in coding and Blockchain development.
+- 🌱 I’m currently writing smart contracts.
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me from linkedin
 
