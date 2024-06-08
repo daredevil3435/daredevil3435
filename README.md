@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @daredevil3435
-- 👀 I’m interested in coding and Blockchain development.
-- 🌱 I’m currently writing smart contracts.
+- 👀 I’m interested in machine learning. 
+- 🌱 I’m currently working as a freelancer.
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me from linkedin
+
 
 <!---
 daredevil3435/daredevil3435 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
