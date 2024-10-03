@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @daredevil3435
-- 👀 I’m interested in machine learning. 
 - 🌱 I’m currently working as a freelancer.
 - 💞️ I’m looking to collaborate on open source projects
 
